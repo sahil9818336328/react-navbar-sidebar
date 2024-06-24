@@ -1,0 +1,4 @@
+- sidebar and modal
+- use of global context
+- avoid prop drilling
+- react icons
